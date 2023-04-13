@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "[https://tenor.com/es-AR/view/doctor-who-gif-23070773](https://media.tenor.com/LtndJdbW7CQAAAAC/doctor-who.gif)" width="900">
+<img src = "https://media.tenor.com/LtndJdbW7CQAAAAC/doctor-who.gif" width="900">
 <!--
 **serechr/serechr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
